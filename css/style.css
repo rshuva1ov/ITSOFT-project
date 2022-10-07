@@ -781,6 +781,7 @@ button {
     position: inherit;
     font-size: 16px;
     color: white;
+    cursor: pointer;
 }
 
 .production__right-arrow2 {
