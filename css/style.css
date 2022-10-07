@@ -1232,6 +1232,10 @@ button {
     margin-bottom: 24px;
 }
 
+.footer__right-item svg {
+    cursor:pointer;
+}
+
 .footer__right-item:not(:last-child) {
     margin-right: 40px;
 }
