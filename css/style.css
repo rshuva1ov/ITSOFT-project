@@ -697,7 +697,7 @@ button {
     z-index: -1;
     height: 100%;
     width: 100%;
-    background-image: url(/img/production-back.svg);
+    background-image: url(../img/production-back.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -761,7 +761,7 @@ button {
     height: 67px;
     top: 35%;
     bottom: 50%;
-    background-image: url(/img/play.svg);
+    background-image: url(../img/play.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -958,7 +958,7 @@ button {
     z-index: -2;
     height: 100%;
     width: 100%;
-    background-image: url(/img/information-back.svg);
+    background-image: url(../img/information-back.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -992,7 +992,7 @@ button {
     width: 100%;
     min-height: 456px;
     height: 100%;
-    background-image: url(/img/information1.jpg);
+    background-image: url(../img/information1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1063,7 +1063,7 @@ button {
 .information__right-quarter1 {
     max-width: 263px;
     min-height: 263px;
-    background-image: url(/img/information2.jpg);
+    background-image: url(../img/information2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
