@@ -288,6 +288,7 @@ button {
 .hero__right-arrow {
     position: inherit;
     font-size: 16px;
+    user-select: none;
 }
 
 .hero__right-arrow svg {
@@ -450,8 +451,6 @@ button {
     margin-left: 10px;
     display: inline-block;
     cursor: pointer;
-    height: 20px;
-    transform: translateY(4px);
     border: none;
     background-color: transparent;
 }
@@ -778,6 +777,7 @@ button {
 }
 
 .production__right-arrow {
+    user-select: none;
     position: inherit;
     font-size: 16px;
     color: white;
