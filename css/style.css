@@ -296,6 +296,8 @@ button {
 }
 
 .hero__right-arrows {
+    outline: none;
+    user-select: none;
     transform: translate(8px, 3px);
     margin-left: auto;
     margin-right: auto;
