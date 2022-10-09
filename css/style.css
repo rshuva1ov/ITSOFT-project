@@ -2063,6 +2063,10 @@ button {
         margin-left: 7px;
         transform: translateY(-9px);
     }
+    
+    .complex__list-tippy {
+        height: 25px;
+    }
 
     .complex__list-tippy svg {
         width: 25px;
@@ -2358,7 +2362,7 @@ button {
 
     .complex__list-tippy {
         margin-left: 5px;
-        transform: translateY(-13px);
+        transform: translateY(-7px);
     }
 
     .complex__action-left {
